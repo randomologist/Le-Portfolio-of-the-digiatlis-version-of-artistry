@@ -1,6 +1,7 @@
 <html><head>
 </head>
-<body
+<body>
+  
 </svg> 
 <svg width="500" height="999">
 <rect x="25" y="73" width="110" height="12" fill="darkgrey"></rect>
